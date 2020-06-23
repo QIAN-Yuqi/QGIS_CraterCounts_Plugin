@@ -1,5 +1,5 @@
 ===============================
-circle-craters
+QGIS_CraterCounts_Plugin
 ===============================
 
 A crater-counting python plugin for `QGIS`_.
